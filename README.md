@@ -1,3 +1,3 @@
 # Fooje_app
 
-Mobile app for online food order.
+Mobile app for ordering food online.
